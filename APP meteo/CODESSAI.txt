@@ -1,0 +1,27 @@
+//LES HEURES PAR TRANCHE DE 3H.
+
+// let heureActuelle = new Date().getHours();
+
+// for(let i = 0; i < heure.length; i++){
+//     let heureIncr = heureActuelle + i * 3;
+
+// if(heureIncr > 24){
+//     heure[i].innerText = `${heureIncr - 24} h`;
+// } else if(heureIncr === 24){
+//     heure[i].innerText = "00 h"
+// }else{
+//     heure[i].innerText = `${heureIncr} h`;
+// }
+// }
+
+// TEMPERATURES TOUTES LES 3H
+
+//for(let j = 0; j < tempPourH.length; j++){
+    //tempPourH[j].innerText = `${responsFormat.fcst_day_0.tmin}°`;
+//}
+
+// 3 PREMIERES LETTRE DU JOUR
+
+    // for(let k = 0; k < tabJoursEnOrdre.length; k++){
+    //    joursDiv[k].innerText = tabJoursEnOrdre[k].slice(0,3);
+    // }
